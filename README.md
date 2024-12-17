@@ -1,0 +1,1 @@
+This Python script is designed to check the strength of a password. It checks for the presence of lowercase and uppercase letters, digits, special characters, and a minimum length of 8 characters. The script provides feedback on whether the password is weak, moderate, or strong based on these conditions.
